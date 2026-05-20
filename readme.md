@@ -78,7 +78,6 @@ Bash
 ```
 
 ---
-```
 # 📊 Relatório de Auditoria e Logs
 Ao finalizar a compressão e purga dos arquivos da pasta de origem, o script retorna um relatório executivo estruturado em formato JSON no terminal:
 
