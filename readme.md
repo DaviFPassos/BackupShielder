@@ -97,5 +97,4 @@ JSON
 }
 Além disso, o histórico completo fica salvo no arquivo de persistência local logs/backup_history.log, registrando datas, status de sucesso ou falhas críticas do Kernel para auditorias posteriores do SysAdmin.
 ```
-=======
-```
+
