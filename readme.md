@@ -82,6 +82,7 @@ Bash
 # 📊 Relatório de Auditoria e Logs
 Ao finalizar a compressão e purga dos arquivos da pasta de origem, o script retorna um relatório executivo estruturado em formato JSON no terminal:
 
+```
 JSON
 📋 EXECUTION METRICS REPORT (JSON OUTPUT):
 {
@@ -95,3 +96,4 @@ JSON
     "infrastructure_action": "Source logs purged. Tarball moved to secure vault."
 }
 Além disso, o histórico completo fica salvo no arquivo de persistência local logs/backup_history.log, registrando datas, status de sucesso ou falhas críticas do Kernel para auditorias posteriores do SysAdmin.
+```
