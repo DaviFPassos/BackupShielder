@@ -1,0 +1,10 @@
+backup_vault/
+
+logs/
+
+source_apps/*.txt
+
+.venv/
+venv/
+__pycache__/
+*.pyc
